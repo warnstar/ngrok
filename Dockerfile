@@ -1,6 +1,6 @@
 FROM golang:1.9
 
-COPY ngrok /go/src/ngrok
+RUN cd /go/src && git clone https://github.com/inconshreveable/ngrok.git
 
 WORKDIR /go/src/ngrok
 
