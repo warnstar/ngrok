@@ -17,7 +17,7 @@ RUN cp device.crt assets/server/tls/snakeoil.crt
 RUN cp device.key assets/server/tls/snakeoil.key
 
 RUN make release-server
-RUN make release-client
+RUN make release-client && GOOS=windows GOARCH=amd64 make release-client
 
 EXPOSE 80 443 4443
 #CMD "/go/src/ngrok/bin/ngrokd -domain="$TUNNEL_DOMAIN" -httpAddr=":80" -httpsAddr=":443""
