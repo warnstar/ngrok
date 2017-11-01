@@ -1,0 +1,10 @@
+version: '2'
+services:
+    ngrok:
+        build: .
+        volumes:
+          - ./clients:/go/src/ngrok/bin/clients
+        environment:
+            TUNNEL_DOMAIN: mops-pulse-dev.lianluo.com
+        ports:
+            - 4443:4443
