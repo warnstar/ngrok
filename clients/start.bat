@@ -1,2 +1,2 @@
-ngrok.exe -config=ngrok.cfg -log=ngrok.log -subdomain=wchuang 80
+ngrok.exe -config=ngrok.cfg -subdomain=test 80
 pause

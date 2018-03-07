@@ -7,6 +7,7 @@ services:
         environment:
             TUNNEL_DOMAIN: mops-pulse-dev.lianluo.com
         ports:
-            - 8080:8080
-            - 8443:8443
+            - 8080:80
+            - 8081:443
             - 4443:4443
+        restart: always

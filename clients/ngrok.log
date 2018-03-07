@@ -1,0 +1,403 @@
+[2017/11/01 16:21:15 CST] [INFO] (ngrok/log.Info:112) Reading configuration file ngrok.cfg
+[2017/11/01 16:21:15 CST] [INFO] (ngrok/log.(*PrefixLogger).Info:83) [client] Trusting root CAs: [assets/client/tls/ngrokroot.crt]
+[2017/11/01 16:21:15 CST] [INFO] (ngrok/log.(*PrefixLogger).Info:83) [view] [web] Serving web interface on 127.0.0.1:4040
+[2017/11/01 16:21:15 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:21:15 CST] [INFO] (ngrok/log.Info:112) Checking for update
+[2017/11/01 16:21:15 CST] [INFO] (ngrok/log.(*PrefixLogger).Info:83) [view] [term] Resize event, redrawing
+[2017/11/01 16:21:15 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:21:15 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2d19c301] New connection to: [::1]:4443
+[2017/11/01 16:21:15 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2d19c301] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:21:15 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2d19c301] Closing
+[2017/11/01 16:21:15 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:21:15 CST] [INFO] (ngrok/log.Info:112) Waiting 1 seconds before reconnecting
+[2017/11/01 16:21:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:21:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:48373ad8] New connection to: [::1]:4443
+[2017/11/01 16:21:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:48373ad8] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:21:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:48373ad8] Closing
+[2017/11/01 16:21:16 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:21:16 CST] [INFO] (ngrok/log.Info:112) Waiting 2 seconds before reconnecting
+[2017/11/01 16:21:18 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:21:18 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:71c4f444] New connection to: [::1]:4443
+[2017/11/01 16:21:18 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:71c4f444] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:21:18 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:71c4f444] Closing
+[2017/11/01 16:21:18 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:21:18 CST] [INFO] (ngrok/log.Info:112) Waiting 4 seconds before reconnecting
+[2017/11/01 16:21:22 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:21:22 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:af40e28] New connection to: [::1]:4443
+[2017/11/01 16:21:22 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:af40e28] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:21:22 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:af40e28] Closing
+[2017/11/01 16:21:22 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:21:22 CST] [INFO] (ngrok/log.Info:112) Waiting 8 seconds before reconnecting
+[2017/11/01 16:21:23 CST] [INFO] (ngrok/log.Info:112) No update available
+[2017/11/01 16:21:30 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:21:30 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4c35609] New connection to: [::1]:4443
+[2017/11/01 16:21:30 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4c35609] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:21:30 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4c35609] Closing
+[2017/11/01 16:21:30 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:21:30 CST] [INFO] (ngrok/log.Info:112) Waiting 16 seconds before reconnecting
+[2017/11/01 16:21:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:21:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:55ff0f1f] New connection to: [::1]:4443
+[2017/11/01 16:21:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:55ff0f1f] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:21:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:55ff0f1f] Closing
+[2017/11/01 16:21:46 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:21:46 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:22:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:22:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5c764137] New connection to: [::1]:4443
+[2017/11/01 16:22:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5c764137] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:22:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5c764137] Closing
+[2017/11/01 16:22:16 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:22:16 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:22:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:22:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:43573dd0] New connection to: [::1]:4443
+[2017/11/01 16:22:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:43573dd0] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:22:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:43573dd0] Closing
+[2017/11/01 16:22:46 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:22:46 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:23:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:23:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2b57a167] New connection to: [::1]:4443
+[2017/11/01 16:23:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2b57a167] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:23:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2b57a167] Closing
+[2017/11/01 16:23:16 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:23:16 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:23:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:23:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:7d4fc807] New connection to: [::1]:4443
+[2017/11/01 16:23:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:7d4fc807] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:23:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:7d4fc807] Closing
+[2017/11/01 16:23:46 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:23:46 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:24:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:24:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4246acf1] New connection to: [::1]:4443
+[2017/11/01 16:24:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4246acf1] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:24:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4246acf1] Closing
+[2017/11/01 16:24:16 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:24:16 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:24:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:24:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:472deab1] New connection to: [::1]:4443
+[2017/11/01 16:24:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:472deab1] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:24:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:472deab1] Closing
+[2017/11/01 16:24:46 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:24:46 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:25:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:25:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2df69404] New connection to: [::1]:4443
+[2017/11/01 16:25:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2df69404] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:25:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2df69404] Closing
+[2017/11/01 16:25:16 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:25:16 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:25:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:25:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:76022b56] New connection to: [::1]:4443
+[2017/11/01 16:25:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:76022b56] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:25:46 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:76022b56] Closing
+[2017/11/01 16:25:46 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:25:46 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:26:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:26:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:6ea24e9] New connection to: [::1]:4443
+[2017/11/01 16:26:16 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:6ea24e9] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:26:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:6ea24e9] Closing
+[2017/11/01 16:26:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:26:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:26:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:26:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:380cda2b] New connection to: [::1]:4443
+[2017/11/01 16:26:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:380cda2b] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:26:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:380cda2b] Closing
+[2017/11/01 16:26:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:26:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:27:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:27:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:6149f261] New connection to: [::1]:4443
+[2017/11/01 16:27:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:6149f261] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:27:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:6149f261] Closing
+[2017/11/01 16:27:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:27:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:27:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:27:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1161c3bd] New connection to: [::1]:4443
+[2017/11/01 16:27:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1161c3bd] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:27:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1161c3bd] Closing
+[2017/11/01 16:27:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:27:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:28:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:28:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:62967700] New connection to: [::1]:4443
+[2017/11/01 16:28:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:62967700] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:28:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:62967700] Closing
+[2017/11/01 16:28:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:28:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:28:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:28:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:32ec8c9c] New connection to: [::1]:4443
+[2017/11/01 16:28:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:32ec8c9c] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:28:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:32ec8c9c] Closing
+[2017/11/01 16:28:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:28:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:29:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:29:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5fcc6432] New connection to: [::1]:4443
+[2017/11/01 16:29:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5fcc6432] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:29:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5fcc6432] Closing
+[2017/11/01 16:29:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:29:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:29:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:29:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:75d59ab9] New connection to: [::1]:4443
+[2017/11/01 16:29:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:75d59ab9] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:29:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:75d59ab9] Closing
+[2017/11/01 16:29:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:29:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:30:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:30:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:6c632837] New connection to: [::1]:4443
+[2017/11/01 16:30:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:6c632837] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:30:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:6c632837] Closing
+[2017/11/01 16:30:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:30:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:30:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:30:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:37084a7a] New connection to: [::1]:4443
+[2017/11/01 16:30:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:37084a7a] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:30:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:37084a7a] Closing
+[2017/11/01 16:30:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:30:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:31:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:31:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5baef178] New connection to: [::1]:4443
+[2017/11/01 16:31:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5baef178] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:31:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5baef178] Closing
+[2017/11/01 16:31:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:31:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:31:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:31:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:61d223ad] New connection to: [::1]:4443
+[2017/11/01 16:31:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:61d223ad] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:31:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:61d223ad] Closing
+[2017/11/01 16:31:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:31:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:32:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:36ac20ab] New connection to: [::1]:4443
+[2017/11/01 16:32:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:36ac20ab] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:32:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:32:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:36ac20ab] Closing
+[2017/11/01 16:32:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:32:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:32:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:32:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5a7d2786] New connection to: [::1]:4443
+[2017/11/01 16:32:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5a7d2786] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:32:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5a7d2786] Closing
+[2017/11/01 16:32:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:32:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:33:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:33:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:636c7c24] New connection to: [::1]:4443
+[2017/11/01 16:33:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:636c7c24] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:33:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:636c7c24] Closing
+[2017/11/01 16:33:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:33:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:33:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:33:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:dfb23f3] New connection to: [::1]:4443
+[2017/11/01 16:33:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:dfb23f3] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:33:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:dfb23f3] Closing
+[2017/11/01 16:33:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:33:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:34:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:34:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:166ae54e] New connection to: [::1]:4443
+[2017/11/01 16:34:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:166ae54e] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:34:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:166ae54e] Closing
+[2017/11/01 16:34:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:34:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:34:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:34:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:63e495e7] New connection to: [::1]:4443
+[2017/11/01 16:34:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:63e495e7] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:34:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:63e495e7] Closing
+[2017/11/01 16:34:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:34:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:35:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:35:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:69220dd7] New connection to: [::1]:4443
+[2017/11/01 16:35:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:69220dd7] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:35:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:69220dd7] Closing
+[2017/11/01 16:35:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:35:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:35:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:35:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1c29a53c] New connection to: [::1]:4443
+[2017/11/01 16:35:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1c29a53c] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:35:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1c29a53c] Closing
+[2017/11/01 16:35:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:35:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:36:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:36:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:f8f2b53] New connection to: [::1]:4443
+[2017/11/01 16:36:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:f8f2b53] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:36:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:f8f2b53] Closing
+[2017/11/01 16:36:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:36:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:36:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:36:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5e882b11] New connection to: [::1]:4443
+[2017/11/01 16:36:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5e882b11] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:36:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5e882b11] Closing
+[2017/11/01 16:36:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:36:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:37:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:37:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:9dc4573] New connection to: [::1]:4443
+[2017/11/01 16:37:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:9dc4573] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:37:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:9dc4573] Closing
+[2017/11/01 16:37:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:37:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:37:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:37:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:19f9f86] New connection to: [::1]:4443
+[2017/11/01 16:37:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:19f9f86] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:37:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:19f9f86] Closing
+[2017/11/01 16:37:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:37:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:38:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:38:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:3d31eef4] New connection to: [::1]:4443
+[2017/11/01 16:38:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:3d31eef4] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:38:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:3d31eef4] Closing
+[2017/11/01 16:38:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:38:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:38:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:38:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:613ea6c3] New connection to: [::1]:4443
+[2017/11/01 16:38:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:613ea6c3] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:38:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:613ea6c3] Closing
+[2017/11/01 16:38:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:38:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:39:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:39:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:f63a213] New connection to: [::1]:4443
+[2017/11/01 16:39:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:f63a213] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:39:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:f63a213] Closing
+[2017/11/01 16:39:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:39:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:39:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:19006df2] New connection to: [::1]:4443
+[2017/11/01 16:39:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:19006df2] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:39:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:39:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:19006df2] Closing
+[2017/11/01 16:39:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:39:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:40:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:40:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2fc8ddca] New connection to: [::1]:4443
+[2017/11/01 16:40:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2fc8ddca] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:40:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2fc8ddca] Closing
+[2017/11/01 16:40:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:40:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:40:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:40:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:510bb5bd] New connection to: [::1]:4443
+[2017/11/01 16:40:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:510bb5bd] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:40:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:510bb5bd] Closing
+[2017/11/01 16:40:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:40:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:41:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:41:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:3fe2cb7b] New connection to: [::1]:4443
+[2017/11/01 16:41:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:3fe2cb7b] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:41:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:3fe2cb7b] Closing
+[2017/11/01 16:41:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:41:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:41:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:41:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:3e836756] New connection to: [::1]:4443
+[2017/11/01 16:41:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:3e836756] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:41:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:3e836756] Closing
+[2017/11/01 16:41:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:41:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:42:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:42:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1159a365] New connection to: [::1]:4443
+[2017/11/01 16:42:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1159a365] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:42:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1159a365] Closing
+[2017/11/01 16:42:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:42:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:42:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:42:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:65757185] New connection to: [::1]:4443
+[2017/11/01 16:42:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:65757185] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:42:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:65757185] Closing
+[2017/11/01 16:42:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:42:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:43:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:43:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1349c19] New connection to: [::1]:4443
+[2017/11/01 16:43:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1349c19] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:43:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1349c19] Closing
+[2017/11/01 16:43:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:43:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:43:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:43:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1702a716] New connection to: [::1]:4443
+[2017/11/01 16:43:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1702a716] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:43:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1702a716] Closing
+[2017/11/01 16:43:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:43:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:44:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:44:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4613a741] New connection to: [::1]:4443
+[2017/11/01 16:44:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4613a741] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:44:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:4613a741] Closing
+[2017/11/01 16:44:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:44:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:44:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:44:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:11338825] New connection to: [::1]:4443
+[2017/11/01 16:44:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:11338825] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:44:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:11338825] Closing
+[2017/11/01 16:44:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:44:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:45:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:45:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:549046f0] New connection to: [::1]:4443
+[2017/11/01 16:45:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:549046f0] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:45:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:549046f0] Closing
+[2017/11/01 16:45:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:45:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:45:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:45:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:18213c15] New connection to: [::1]:4443
+[2017/11/01 16:45:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:18213c15] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:45:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:18213c15] Closing
+[2017/11/01 16:45:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:45:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:46:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:46:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:6b03cf93] New connection to: [::1]:4443
+[2017/11/01 16:46:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:6b03cf93] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:46:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:6b03cf93] Closing
+[2017/11/01 16:46:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:46:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:46:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:57cf66c4] New connection to: [::1]:4443
+[2017/11/01 16:46:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:57cf66c4] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:46:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:46:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:57cf66c4] Closing
+[2017/11/01 16:46:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:46:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:47:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:47:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:7e5f9d6e] New connection to: [::1]:4443
+[2017/11/01 16:47:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:7e5f9d6e] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:47:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:7e5f9d6e] Closing
+[2017/11/01 16:47:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:47:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:47:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:47:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:602a253f] New connection to: [::1]:4443
+[2017/11/01 16:47:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:602a253f] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:47:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:602a253f] Closing
+[2017/11/01 16:47:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:47:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:48:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:48:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2da918af] New connection to: [::1]:4443
+[2017/11/01 16:48:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2da918af] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:48:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2da918af] Closing
+[2017/11/01 16:48:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:48:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:48:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:48:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:bfe01e7] New connection to: [::1]:4443
+[2017/11/01 16:48:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:bfe01e7] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:48:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:bfe01e7] Closing
+[2017/11/01 16:48:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:48:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:49:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:49:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5a7d3900] New connection to: [::1]:4443
+[2017/11/01 16:49:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5a7d3900] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:49:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:5a7d3900] Closing
+[2017/11/01 16:49:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:49:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:49:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:49:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1ac75c6b] New connection to: [::1]:4443
+[2017/11/01 16:49:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1ac75c6b] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:49:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1ac75c6b] Closing
+[2017/11/01 16:49:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:49:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:50:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:50:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1c19be63] New connection to: [::1]:4443
+[2017/11/01 16:50:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1c19be63] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:50:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:1c19be63] Closing
+[2017/11/01 16:50:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:50:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:50:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:7ecee6b0] New connection to: [::1]:4443
+[2017/11/01 16:50:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:7ecee6b0] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:50:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:50:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:7ecee6b0] Closing
+[2017/11/01 16:50:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:50:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:51:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:51:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2c8be026] New connection to: [::1]:4443
+[2017/11/01 16:51:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2c8be026] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:51:17 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:2c8be026] Closing
+[2017/11/01 16:51:17 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:51:17 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting
+[2017/11/01 16:51:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [view] [term] Waiting for update
+[2017/11/01 16:51:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:48da59bd] New connection to: [::1]:4443
+[2017/11/01 16:51:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:48da59bd] Writing message: {"Type":"Auth","Payload":{"Version":"2","MmVersion":"1.7","User":"","Password":"","OS":"windows","Arch":"amd64","ClientId":""}}
+[2017/11/01 16:51:47 CST] [DEBG] (ngrok/log.(*PrefixLogger).Debug:79) [ctl:48da59bd] Closing
+[2017/11/01 16:51:47 CST] [EROR] (ngrok/log.Error:120) control recovering from failure x509: certificate is valid for a.example.com, not localhost
+[2017/11/01 16:51:47 CST] [INFO] (ngrok/log.Info:112) Waiting 30 seconds before reconnecting

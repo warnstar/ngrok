@@ -4,7 +4,7 @@ RUN cd /go/src && git clone https://github.com/inconshreveable/ngrok.git
 
 WORKDIR /go/src/ngrok
 
-ENV TUNNEL_DOMAIN a.example.com
+ENV TUNNEL_DOMAIN mops-pulse-dev.lianluo.com
 
 RUN openssl genrsa -out rootCA.key 2048
 RUN openssl req -x509 -new -nodes -key rootCA.key -subj "/CN=$TUNNEL_DOMAIN" -days 5000 -out rootCA.pem
@@ -20,5 +20,6 @@ RUN make release-server
 RUN make release-client && GOOS=windows GOARCH=amd64 make release-client
 
 EXPOSE 8080 8443 4443
+#CMD "/go/src/ngrok/bin/ngrokd -domain="$TUNNEL_DOMAIN" -httpAddr=":80" -httpsAddr=":443""
 
 ENTRYPOINT /go/src/ngrok/bin/ngrokd -domain="$TUNNEL_DOMAIN" -httpAddr=":8080" -httpsAddr=":8443"
